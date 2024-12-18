@@ -8,7 +8,7 @@
 - **Browser-based**: Play directly in your browser—no installation required.  
 - **Exciting Combat**: Fast-paced shooting action with challenging enemies.  
 - **Pixel-Art Graphics**: Stunning retro visuals with a futuristic twist.  
-- **Intense Gameplay**: Fight against waves of enemies, level up, and unlock new challenges.
+- **Intense Gameplay**: Fight against waves of enemies.
 
 ---
 
