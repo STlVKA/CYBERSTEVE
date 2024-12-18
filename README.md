@@ -24,7 +24,7 @@
 
 ## 🛠️ Development
 - **Languages**: JavaScript, HTML5, CSS.
-- **Creator**: STlVKA.
+- **Creator**: Steven Rudko.
 
 ---
 
